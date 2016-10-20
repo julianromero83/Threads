@@ -115,6 +115,8 @@ class CountManager {
 			//
 			// More info here: 
 			// http://stackoverflow.com/questions/3590000/what-does-java-lang-thread-interrupt-do
+			// And:
+			// http://stackoverflow.com/questions/10961714/how-to-properly-stop-the-thread-in-java
 			
 			// Option 1
 			//heart.stopBeating();	
